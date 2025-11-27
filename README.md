@@ -12,18 +12,22 @@
 <p>My cat is very grumpy</p>
 ```
 
+
 - **Nesting elements:**  
 ```html
 <p>My cat is <strong>very</strong> grumpy.</p>
 ```
+
 
 - **Void elements:**  
 ```html
 <img src="https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png" alt="Firefox icon" />
 ```
 
+
 - **Attribute:**
 <img src="https://github.com/user-attachments/assets/18e49d25-ffd1-416b-9ea6-e8ba3019e708" alt="image" width = 600/>
+
 
 - **Boolean Attribute:**
 ```html
@@ -37,17 +41,22 @@ As shorthand, it is acceptable to write this as follows:
 <input type="text" />
 ```
 
+
 - **Omitting quotes around attribute values**
-      attribute values MUST be inside quotes. Can either be "" or ''
+      + Attribute values MUST be inside quotes.
+
+      + Can either be "" or ''
 ```html
 <a href="https://www.mozilla.org/">favorite website</a>
 <a href="https://www.mozilla.org/" title="The Mozilla homepage">favorite website</a>
 ```
       "title" will show the Tooltip text on hover
 
+
 - **Whitespace**
-      Both are the same
-``html
+  
+      + Both are the same
+```html
 <p id="noWhitespace">Dogs are silly.</p>
 
 <p id="whitespace">Dogs
@@ -55,11 +64,13 @@ As shorthand, it is acceptable to write this as follows:
         silly.</p>
 ```
 
+
 - **Special characters**
 src="https://github.com/user-attachments/assets/7e0b5e0a-cf15-4f12-b7fd-3b8d112854f6" alt="image" img width="600" />
 
+
 - **Comment**
-``html 
+```html 
 <!-- <p>...</p> -->
 ```
 
