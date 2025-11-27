@@ -21,3 +21,7 @@
 ```html
 <img src="https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png" alt="Firefox icon" />
 ```
+
+- **Attribute:**
+<img width="1287" height="156" alt="image" src="https://github.com/user-attachments/assets/18e49d25-ffd1-416b-9ea6-e8ba3019e708" />
+
