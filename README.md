@@ -5,14 +5,19 @@
 [Basic:](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Basic_HTML_syntax)
 
 ##HTML:
+### Basic
 
-###BasicL
+- **Enclosing:**  
+```html
+<p>My cat is very grumpy</p>
+```
 
-**- Enclosing:** 
-```<p>My cat is very grumpy</p>
+- **Nesting elements:**  
+```html
+<p>My cat is <strong>very</strong> grumpy.</p>
+```
 
-**- Nesting elements:** 
-```<p>My cat is <strong>very</strong> grumpy.</p>
-
-**- Void elements:**
-```<img src="https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png" alt="Firefox icon" />
+- **Void elements:**  
+```html
+<img src="https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png" alt="Firefox icon" />
+```
