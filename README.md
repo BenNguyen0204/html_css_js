@@ -1,5 +1,7 @@
 # frontEnd_html
 
+[Exercises](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/step-2?messages=success%5B0%5D%3Dflash.signin-success)
+
 [Cheat sheet](https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf)
 
 [Basic:](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Basic_HTML_syntax)
