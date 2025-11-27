@@ -23,5 +23,5 @@
 ```
 
 - **Attribute:**
-<alt="image" src="https://github.com/user-attachments/assets/18e49d25-ffd1-416b-9ea6-e8ba3019e708" width = 50%/>
+<img src="https://github.com/user-attachments/assets/18e49d25-ffd1-416b-9ea6-e8ba3019e708" alt="image" width = 50%/>
 
