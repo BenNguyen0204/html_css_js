@@ -66,7 +66,8 @@ Both are the same
 
 
 - **Special characters**
-src="https://github.com/user-attachments/assets/7e0b5e0a-cf15-4f12-b7fd-3b8d112854f6" alt="image" img width="600" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/fd7bea1a-5d22-4dbb-95c9-305f71e30581" />
+
 
 
 - **Comment**
